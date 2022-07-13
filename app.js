@@ -19,3 +19,15 @@ right.addEventListener('mouseleave', () => {
 })
 
 
+// @media screen and(max - width: 800px) {
+//     h1{
+//     font-size: 2rem;
+//     top:30%;
+//   }
+//   .btn{
+//     padding:1.5rem;
+//     width:12rem;
+//   }
+
+// }
+
